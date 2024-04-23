@@ -3,10 +3,10 @@
     Costanza Pasquotto Assef <img src="https://skillicons.dev/icons?i=linux" /><br>
 </h1> <br>
 <div align="center">
-🐘Full-Stack Developer<p>
+Full-Stack Developer🐂<p>
  </div>
  <div align="center">
-🐂Software Engineer at Weg<p>
+Software Engineer at Weg🦏<p>
  </div>
  
 <div align="center"> 
