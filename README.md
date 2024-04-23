@@ -23,8 +23,8 @@
 <h2 align="center">🚀Tools🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity,vercel,heroku,gitlab" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino,unrealengine,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity,vercel,heroku,gitlab,pug" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino,unrealengine,notion,powershell,wordpress" /><br>
 </div>
 
 <h2 align="center">🪐Objectives🪐</h2>
