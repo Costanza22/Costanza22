@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino,unrealengine,notion" /><br>
 </div>
 
 <h2 align="center">🪐Objectives🪐</h2>
