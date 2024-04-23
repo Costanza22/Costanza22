@@ -3,12 +3,10 @@
     Costanza Pasquotto Assef <img src="https://skillicons.dev/icons?i=linux" /><br>
 </h1> <br>
 <div align="center">
- 
-  🚊 I’m currently working at **Weg** <p>
-  
-  🐘I’m currently learning **PHP** <p>
-  
-
+🐘Full-Stack Developer<p>
+ </div>
+ <div align="center">
+🐂Software Engineer at Weg<p>
  </div>
  
 <div align="center"> 
@@ -25,7 +23,7 @@
 <h2 align="center">🚀Tools🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity,vercel,heroku,gitlab" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino,unrealengine,notion" /><br>
 </div>
 
