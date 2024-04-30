@@ -30,7 +30,7 @@ Software Engineer at Weg🦏<p>
 <h2 align="center">🪐Objectives🪐</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,swift,go,kotlin,typescript,r,blender,cpp,php,lua,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java,c,swift,go,kotlin,typescript,r,blender,cpp,php,lua,dotnet,anaconda" />
 
 </div>
 
