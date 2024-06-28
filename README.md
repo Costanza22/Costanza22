@@ -23,14 +23,9 @@ Software Engineer at Weg🦏<p>
 <h2 align="center">🚀Tools🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby,stackoverflow,unity,vercel,heroku,gitlab,pug" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,nextjs,mysql,docker,replit,arduino,unrealengine,notion,powershell,wordpress,bitbucket" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ruby,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,tailwind,mongodb,mysql,docker,unrealengine,unity,notion,wordpress," /><br>
 </div>
-
-<h2 align="center">🪐Objectives🪐</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,swift,go,kotlin,typescript,r,blender,cpp,php,lua,dotnet,anaconda" />
 
 </div>
 
