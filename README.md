@@ -28,8 +28,8 @@ Profissional com foco em **Administração de Banco de Dados (DBA)** e **Engenha
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,mongodb,python,docker,git" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,aws" />
+  <img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,python,docker,git" /><br>
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
