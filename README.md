@@ -5,7 +5,9 @@
 </h1>
 
 <p align="center">
-  <strong>Administradora de Banco de Dados (DBA) 💾 | Engenheira de Dados 📈 | Especialista em Otimização SQL ⚙️</strong>
+  <strong>
+    Engenheira de Software 💻 | Desenvolvimento de Sistemas Orientados a Dados 📊 | SQL & Bancos Relacionais
+  </strong>
 </p>
 
 <div align="center">
@@ -21,35 +23,43 @@
 
 ## 👩‍💻 Sobre mim
 
-Profissional com foco em **Administração de Banco de Dados (DBA)** e **Engenharia de Dados**. Sou apaixonada por arquitetar soluções de armazenamento eficientes, garantir a integridade, segurança e alta disponibilidade de dados. Minha expertise se concentra em **otimizar consultas SQL** para performance máxima, realizar manutenção de esquemas e transformar grandes volumes de dados em informações estratégicas através de pipelines ETL/ELT.
+Sou **Engenheira de Software** com foco em **desenvolvimento de sistemas orientados a dados**, atuando na integração entre **aplicações web, APIs REST e bancos de dados relacionais**.
+
+Tenho experiência prática em **modelagem de dados**, escrita e otimização de **consultas SQL**, desenvolvimento de **APIs backend** e construção de **interfaces em React** para visualização e consumo de dados.
+
+Atuo principalmente com **PostgreSQL e MySQL**, incluindo o uso de extensões como **PostGIS**, aplicando dados geoespaciais em sistemas reais. Possuo interesse contínuo em **engenharia de dados e arquitetura de dados aplicada a sistemas**, buscando evoluir tecnicamente nessa direção.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,python,docker,git,react" /><br>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=sql,postgresql,mysql,python,nodejs,react,docker,git" /><br>
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
 
 ## 📁 Projetos em Destaque
 
-### 📈 Enchentes no Rio Grande do Sul - Análise de Impactos (2020-2024)
-* **Tecnologias:** Python, Pandas, Matplotlib, Scikit-learn, SQL, Kaggle
-* **Descrição:** Análise completa dos impactos das enchentes no RS, focando na crise de 2024. Este projeto demonstrou proficiência em **Engenharia de Dados (ETL/ELT)** para coletar dados heterogêneos, realizar limpeza, processamento e modelagem.
-* **Destaque DBA/Data:** Foco na manipulação e correlação de grandes **séries temporais**, utilizando SQL para extração e transformação, e criação de um dataset estruturado para análises preditivas.
+### 📊 Enchentes no Rio Grande do Sul — Análise de Impactos (2020–2024)
+**Tecnologias:** Python, Pandas, Matplotlib, SQL, Kaggle  
+**Descrição:** Projeto de análise de dados sobre os impactos das enchentes no RS, com foco na crise de 2024. Envolveu coleta, limpeza, estruturação e análise de dados históricos.  
+**Destaque em dados:** Aplicação de conceitos de **ETL**, organização de séries temporais e uso de **SQL** para extração e transformação de dados, resultando em um dataset estruturado para análises exploratórias.
 
-### 🏛️ Joi Patrio (Plataforma de Patrimônio Histórico Georreferenciado)
-* **Tecnologias:** PostgreSQL, **PostGIS**, React, Mapeamento Interativo
-* **Descrição:** Plataforma desenvolvida para valorização e preservação do patrimônio histórico com foco em acessibilidade e mapeamento interativo.
-* **Destaque DBA/Data:** Forte aplicação de **PostgreSQL com a extensão PostGIS** para armazenamento, manipulação e consultas complexas de dados geoespaciais (georreferenciamento), um diferencial na administração de bases de dados de localização.
+---
 
-### 🔍 BHT Detector (Sistema de Dicionário de Dados para Ingredientes)
-* **Tecnologias:** Python, Web Scraping, **Modelagem de Dados**
-* **Descrição:** Solução pessoal para identificar conservantes (como BHT/E320) em rótulos, superando a dificuldade de nomes alternativos.
-* **Destaque DBA/Data:** O projeto envolveu a criação e manutenção de um **Dicionário de Dados** e um **banco de dados robusto** de sinônimos de ingredientes. Demonstra a aplicação prática de **modelagem relacional** e lógica de busca eficiente para garantir a integridade e precisão das informações.
+### 🏛️ Joi Patrio — Plataforma de Patrimônio Histórico Georreferenciado
+**Tecnologias:** PostgreSQL, **PostGIS**, React, Mapeamento Interativo  
+**Descrição:** Plataforma web para catalogação e visualização de patrimônios históricos, com foco em acessibilidade e georreferenciamento.  
+**Destaque em dados:** Modelagem de banco relacional e uso do **PostGIS** para armazenamento e consultas de dados geoespaciais, permitindo filtros e visualizações baseadas em localização.
+
+---
+
+### 🔍 BHT Detector — Dicionário de Dados para Ingredientes
+**Tecnologias:** Python, Web Scraping, Modelagem de Dados  
+**Descrição:** Projeto pessoal para identificação de conservantes em rótulos alimentares, lidando com múltiplos nomes e variações de ingredientes.  
+**Destaque em dados:** Criação de um **dicionário de dados** e de um banco relacional para gerenciamento de sinônimos, aplicando conceitos de **modelagem relacional** e lógica de busca eficiente.
 
 ---
 
