@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Engenheira de Software • Sistemas orientados a dados • SQL & Bancos Relacionais
+  Engenheira de Software Full Stack • Sistemas orientados a dados • Arquitetura relacional
 </p>
 
 <p align="center">
@@ -23,17 +23,38 @@
 
 ## ✨ Sobre mim
 
-Sou engenheira de software focada na construção de **sistemas orientados a dados**, atuando entre **APIs, bancos relacionais e interfaces web**.
+Sou engenheira de software **full stack**, atuando na construção de sistemas orientados a dados — da modelagem relacional à interface do usuário.
 
-Tenho experiência com:
+Trabalho integrando **backend, banco de dados e frontend**, com foco em:
 
-- 📊 Modelagem e consultas SQL  
-- 🗄️ PostgreSQL, MySQL e PostGIS  
-- 🔗 APIs REST  
-- ⚛️ Front-end com React  
-- 🧱 Pipelines e estruturação de dados  
+- Arquitetura relacional consistente  
+- APIs bem estruturadas  
+- Interfaces orientadas a dados  
+- Modelagem geoespacial  
+- Organização e qualidade da informação  
 
-Interesso-me especialmente por **engenharia de dados aplicada a produtos reais**, arquitetura de informação e sistemas georreferenciados.
+Tenho especial interesse em sistemas que transformam dados complexos em produtos utilizáveis.
+
+---
+
+## 🧠 Stack
+
+### 💻 Frontend
+- React  
+- Consumo e integração de APIs  
+- Interfaces orientadas a dados  
+
+### 🔧 Backend
+- Node.js  
+- APIs REST  
+- Modelagem e regras de negócio  
+
+### 🗄 Dados
+- PostgreSQL  
+- MySQL  
+- PostGIS  
+- SQL avançado  
+- ETL e estruturação de dados  
 
 ---
 
@@ -45,8 +66,9 @@ Interesso-me especialmente por **engenharia de dados aplicada a produtos reais**
 Análise histórica das enchentes no RS com foco na crise de 2024.
 
 - ETL e limpeza de dados  
+- Estruturação relacional  
 - Séries temporais  
-- Dataset estruturado para exploração analítica  
+- Dataset preparado para exploração analítica  
 
 ---
 
@@ -57,6 +79,7 @@ Plataforma web para visualização de patrimônios históricos.
 
 - Modelagem relacional  
 - Consultas geoespaciais  
+- API integrada ao frontend  
 - Mapa interativo por localização  
 
 ---
@@ -64,11 +87,11 @@ Plataforma web para visualização de patrimônios históricos.
 ### 🧪 BHT Detector — Ingredientes e Conservantes
 **Stack:** Python • Web Scraping • Dados  
 
-Projeto para identificar conservantes em rótulos alimentares.
+Projeto para identificação de conservantes em rótulos alimentares.
 
-- Dicionário de dados  
-- Normalização de ingredientes  
-- Busca semântica e relacional  
+- Dicionário estruturado de ingredientes  
+- Normalização e padronização de dados  
+- Busca relacional e análise textual  
 
 ---
 
@@ -77,4 +100,5 @@ Projeto para identificar conservantes em rótulos alimentares.
 <p align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
+
 
