@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Costanza%20Pasquotto%20Assef&fontSize=35&fontColor=ffffff" />
+</p>
+
 <h1 align="center">
   Costanza Pasquotto Assef 👩‍💻
 </h1>
@@ -26,9 +30,11 @@
 
 ## ✨ Sobre mim
 
-Sou engenheira de software **full stack**, atuando na construção de sistemas orientados a dados — da modelagem relacional à interface do usuário.
+Sou engenheira de software **full stack**, especializada na construção de **sistemas orientados a dados**, atuando desde a **modelagem relacional até a interface do usuário**.
 
-Trabalho integrando **backend, banco de dados e frontend**, com foco em:
+Trabalho integrando **backend, banco de dados e frontend** para desenvolver sistemas consistentes, organizados e escaláveis.
+
+Foco principalmente em:
 
 - Arquitetura relacional consistente  
 - APIs bem estruturadas  
@@ -36,7 +42,7 @@ Trabalho integrando **backend, banco de dados e frontend**, com foco em:
 - Modelagem geoespacial  
 - Organização e qualidade da informação  
 
-Tenho especial interesse em sistemas que **transformam dados complexos em produtos utilizáveis**.
+Tenho especial interesse em sistemas que **transformam dados complexos em produtos utilizáveis e compreensíveis**.
 
 ---
 
@@ -61,9 +67,35 @@ Tenho especial interesse em sistemas que **transformam dados complexos em produt
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Costanza22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costanza22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🚀 Projetos em destaque
 
 ### 🌊 Enchentes no Rio Grande do Sul (2020–2024)
+
 **Stack:** Python • Pandas • SQL • Matplotlib  
 
 Análise histórica das enchentes no RS com foco na crise de 2024.
@@ -76,6 +108,7 @@ Análise histórica das enchentes no RS com foco na crise de 2024.
 ---
 
 ### 🏛️ Joi Patrio — Patrimônio Histórico Georreferenciado
+
 **Stack:** PostgreSQL • PostGIS • React  
 
 Plataforma web para visualização de patrimônios históricos.
@@ -88,6 +121,7 @@ Plataforma web para visualização de patrimônios históricos.
 ---
 
 ### 🧪 BHT Detector — Ingredientes e Conservantes
+
 **Stack:** Python • Web Scraping • Dados  
 
 Projeto para identificação de conservantes em rótulos alimentares.
@@ -95,6 +129,16 @@ Projeto para identificação de conservantes em rótulos alimentares.
 - Dicionário estruturado de ingredientes  
 - Normalização e padronização de dados  
 - Busca relacional e análise textual  
+
+---
+
+## 📚 Escritos
+
+Também escrevo sobre tecnologia, engenharia de software e reflexões sobre sistemas e dados.
+
+Leia em:
+
+- Medium → https://medium.com/@costanza22
 
 ---
 
