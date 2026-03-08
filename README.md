@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Engenheira de Software Full Stack • Sistemas orientados a dados • Arquitetura relacional
+  Software Engineer • Full Stack • Data-Oriented Systems • Relational Architecture
 </p>
 
 <p align="center">
@@ -16,6 +16,9 @@
   </a>
   <a href="https://br.linkedin.com/in/costanzaassef" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@costanza22" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
 </p>
 
@@ -33,7 +36,7 @@ Trabalho integrando **backend, banco de dados e frontend**, com foco em:
 - Modelagem geoespacial  
 - Organização e qualidade da informação  
 
-Tenho especial interesse em sistemas que transformam dados complexos em produtos utilizáveis.
+Tenho especial interesse em sistemas que **transformam dados complexos em produtos utilizáveis**.
 
 ---
 
@@ -100,5 +103,3 @@ Projeto para identificação de conservantes em rótulos alimentares.
 <p align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
-
-
