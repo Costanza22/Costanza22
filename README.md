@@ -1,81 +1,130 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Costanza%20Pasquotto%20Assef&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Costanza%20Pasquotto%20Assef&fontSize=35&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
-  Costanza Pasquotto Assef 👩‍💻
-</h1>
+<h1 align="center">Costanza Pasquotto Assef</h1>
 
 <p align="center">
-  Software Engineer • Full Stack • Data-Oriented Systems • Relational Architecture
+Software Engineer • Data-Oriented Systems • Artificial Intelligence
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,python,nodejs,react,docker,git" />
+Especialista em Inteligência Artificial Aplicada — Universidade Federal do Paraná (UFPR)
 </p>
 
 <p align="center">
   <a href="mailto:pinassef22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-333?style=flat&logo=gmail"/>
   </a>
-  <a href="https://br.linkedin.com/in/costanzaassef" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://br.linkedin.com/in/costanzaassef">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@costanza22" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@costanza22">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Sobre mim
+## About
 
-Sou engenheira de software **full stack**, especializada na construção de **sistemas orientados a dados**, atuando desde a **modelagem relacional até a interface do usuário**.
+Software engineer focused on the design and development of **data-oriented systems**, working across backend, databases and analytical interfaces.
 
-Trabalho integrando **backend, banco de dados e frontend** para desenvolver sistemas consistentes, organizados e escaláveis.
+Specialized in **Applied Artificial Intelligence at the Federal University of Paraná (UFPR)**, with research and technical interest in:
 
-Foco principalmente em:
+- Artificial Intelligence applications
+- Data-driven systems
+- Relational architecture
+- Information engineering
+- Data modeling and interpretation
 
-- Arquitetura relacional consistente  
-- APIs bem estruturadas  
-- Interfaces orientadas a dados  
-- Modelagem geoespacial  
-- Organização e qualidade da informação  
-
-Tenho especial interesse em sistemas que **transformam dados complexos em produtos utilizáveis e compreensíveis**.
+My work focuses on building **structured, scalable and semantically organized systems** capable of transforming complex data into usable digital products.
 
 ---
 
-## 🧠 Stack
+## Technologies
 
-### 💻 Frontend
-- React  
-- Consumo e integração de APIs  
-- Interfaces orientadas a dados  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,postgresql,mysql,docker,linux,git"/>
+</p>
 
-### 🔧 Backend
+### Backend
+
 - Node.js  
-- APIs REST  
-- Modelagem e regras de negócio  
+- REST APIs  
+- Service architecture  
 
-### 🗄 Dados
+### Frontend
+
+- React  
+- Data-oriented interfaces  
+- API integration  
+
+### Data
+
 - PostgreSQL  
 - MySQL  
 - PostGIS  
-- SQL avançado  
-- ETL e estruturação de dados  
+- Advanced SQL  
+- ETL pipelines  
 
 ---
 
-## 🔥 GitHub Streak
+## Research Interests
+
+- Applied Artificial Intelligence  
+- Decision support systems  
+- Data analysis and predictive modeling  
+- Geospatial systems  
+- Information architecture  
+
+---
+
+## Selected Projects
+
+### Flood Analysis — Rio Grande do Sul (2020–2024)
+
+Python • Pandas • SQL • Matplotlib
+
+Historical analysis of flooding events in southern Brazil, with emphasis on the 2024 crisis.
+
+- Data cleaning and ETL
+- Relational data structuring
+- Time-series analysis
+- Analytical dataset preparation
+
+---
+
+### Joi Patrio — Georeferenced Cultural Heritage
+
+PostgreSQL • PostGIS • React
+
+Web platform for the visualization of georeferenced cultural heritage.
+
+- Relational database design
+- Geospatial queries
+- Backend integration
+- Interactive map interface
+
+---
+
+### BHT Detector
+
+Python • Data Processing • Web Scraping
+
+Project focused on identifying preservatives in food labels.
+
+- Structured ingredient dictionary
+- Data normalization
+- Text search and classification
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/>
@@ -83,58 +132,15 @@ Tenho especial interesse em sistemas que **transformam dados complexos em produt
 
 ---
 
-## 🚀 Projetos em destaque
+## Writing
 
-### 🌊 Enchentes no Rio Grande do Sul (2020–2024)
+I also write about **technology, software engineering and data systems**.
 
-**Stack:** Python • Pandas • SQL • Matplotlib  
-
-Análise histórica das enchentes no RS com foco na crise de 2024.
-
-- ETL e limpeza de dados  
-- Estruturação relacional  
-- Séries temporais  
-- Dataset preparado para exploração analítica  
+Medium  
+https://medium.com/@costanza22
 
 ---
-
-### 🏛️ Joi Patrio — Patrimônio Histórico Georreferenciado
-
-**Stack:** PostgreSQL • PostGIS • React  
-
-Plataforma web para visualização de patrimônios históricos.
-
-- Modelagem relacional  
-- Consultas geoespaciais  
-- API integrada ao frontend  
-- Mapa interativo por localização  
-
----
-
-### 🧪 BHT Detector — Ingredientes e Conservantes
-
-**Stack:** Python • Web Scraping • Dados  
-
-Projeto para identificação de conservantes em rótulos alimentares.
-
-- Dicionário estruturado de ingredientes  
-- Normalização e padronização de dados  
-- Busca relacional e análise textual  
-
----
-
-## 📚 Escritos
-
-Também escrevo sobre tecnologia, engenharia de software e reflexões sobre sistemas e dados.
-
-Leia em:
-
-- Medium → https://medium.com/@costanza22
-
----
-
-## 🐍 Meus commits ganham vida
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
 </p>
