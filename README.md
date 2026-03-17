@@ -5,7 +5,7 @@
 <h1 align="center">Costanza Pasquotto Assef</h1>
 
 <p align="center">
-Software Engineer • Data-Oriented Systems • Artificial Intelligence
+Engenheira de Software • Health-Tech • Inteligência Artificial
 </p>
 
 <p align="center">
@@ -26,23 +26,23 @@ Especialista em Inteligência Artificial Aplicada — Universidade Federal do Pa
 
 ---
 
-## About
+## Sobre
 
-Software engineer focused on the design and development of **data-oriented systems**, working across backend, databases and analytical interfaces.
+Engenheira de software com foco em aplicações voltadas para saúde e segurança alimentar, criando ferramentas que ajudam pessoas a monitorar, compreender e gerenciar métricas de saúde ou informações de alimentos.
 
-Specialized in **Applied Artificial Intelligence at the Federal University of Paraná (UFPR)**, with research and technical interest in:
+Especializada em Inteligência Artificial Aplicada pela UFPR, com interesse em:
 
-- Artificial Intelligence applications
-- Data-driven systems
-- Relational architecture
-- Information engineering
+- Aplicações de IA na saúde
+- Monitoramento e análise de dados de saúde
+- Modelagem de dados e dashboards interativos
+- Classificação e análise de informações de alimentos
 - Data modeling and interpretation
 
-My work focuses on building **structured, scalable and semantically organized systems** capable of transforming complex data into usable digital products.
+Meu trabalho prioriza sistemas estruturados, escaláveis e intuitivos, transformando dados complexos em produtos digitais úteis para pessoas.
 
 ---
 
-## Technologies
+## Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,nodejs,react,postgresql,mysql,docker,linux,git"/>
@@ -52,94 +52,76 @@ My work focuses on building **structured, scalable and semantically organized sy
 
 - Node.js  
 - REST APIs  
-- Service architecture  
+- Arquitetura 
 
 ### Frontend
 
-- React  
-- Data-oriented interfaces  
-- API integration  
+- React
+- Dashboards de saúde
+- Integração com APIs
 
 ### Data
 
 - PostgreSQL  
 - MySQL  
-- PostGIS  
-- Advanced SQL  
-- ETL pipelines  
+- Pipelines ETL 
+- SQLite
+- Análise preditiva de métricas de saúde
 
 ---
 
-## Research Interests
+## Projetos Selecionados
 
-- Applied Artificial Intelligence  
-- Decision support systems  
-- Data analysis and predictive modeling  
-- Geospatial systems  
-- Information architecture  
+## GlucoCare — Aplicativo de Monitoramento de Diabetes
 
----
+React • Node.js • SQLite
 
-## Selected Projects
+-Aplicativo full-stack para registro e acompanhamento de medições de glicose.
 
-### Flood Analysis — Rio Grande do Sul (2020–2024)
+-Dashboard: última medição, média dos últimos 7 dias, medições do dia, percentual dentro da faixa alvo (70–140 mg/dL)
 
-Python • Pandas • SQL • Matplotlib
+-Resumo: tendência, mínimo, máximo, percentual no alvo
 
-Historical analysis of flooding events in southern Brazil, with emphasis on the 2024 crisis.
+-Cadastro e Edição de Medições: validação 20–600 mg/dL
 
-- Data cleaning and ETL
-- Relational data structuring
-- Time-series analysis
-- Analytical dataset preparation
+-Gráficos: evolução da glicose com faixa alvo destacada
 
----
+-Histórico e Filtros: visualizar, editar, excluir; filtrar por 7/30 dias ou todos
 
-### Joi Patrio — Georeferenced Cultural Heritage
+-Exportação e Backup: CSV e JSON
 
-PostgreSQL • PostGIS • React
+-Suporte Offline: fallback no localStorage
 
-Web platform for the visualization of georeferenced cultural heritage.
+-Modo Claro/Escuro com persistência
 
-- Relational database design
-- Geospatial queries
-- Backend integration
-- Interactive map interface
+### Gluten Aware — Detector de Produtos Sem Glúten
+
+PostgreSQL • IA • React
+
+Sistema para identificar produtos supostamente sem glúten, ajudando pessoas com intolerância ou doença celíaca. Considera que não há 100% de certeza na rotulagem, oferecendo alertas e análises detalhadas.
 
 ---
 
-### BHT Detector
+## BHT Detector
 
-Python • Data Processing • Web Scraping
+Python • Processamento de Dados • Web Scraping
 
-Project focused on identifying preservatives in food labels.
+-Projeto focado em identificar conservantes em rótulos de alimentos.
 
-- Structured ingredient dictionary
-- Data normalization
-- Text search and classification
+-Dicionário de ingredientes estruturado
 
----
+-Normalização de dados
 
-## GitHub Activity
+-Busca e classificação de texto
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true"/>
-</p>
+Atividade no GitHub
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/> </p>
+Escrita
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/>
-</p>
+Também escrevo sobre tecnologia, engenharia de software e sistemas de dados.
 
----
-
-## Writing
-
-I also write about **technology, software engineering and data systems**.
-
-Medium  
+Medium
 https://medium.com/@costanza22
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
