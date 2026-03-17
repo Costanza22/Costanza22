@@ -28,7 +28,7 @@ Especialista em Inteligência Artificial Aplicada — Universidade Federal do Pa
 
 ## Sobre
 
-Engenheira de software com foco em aplicações voltadas para saúde e segurança alimentar, criando ferramentas que ajudam pessoas a monitorar, compreender e gerenciar métricas de saúde ou informações de alimentos.
+Engenheira de Software com foco em aplicações de saúde, desenvolvendo ferramentas que ajudam pessoas a monitorar, compreender e gerenciar métricas e informações de saúde.
 
 Especializada em Inteligência Artificial Aplicada pela UFPR, com interesse em:
 
