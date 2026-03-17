@@ -94,7 +94,7 @@ React • Node.js • SQLite
 
 -Modo Claro/Escuro com persistência
 
-### Gluten Aware — Detector de Produtos Sem Glúten
+## Gluten Aware — Detector de Produtos Sem Glúten
 
 PostgreSQL • IA • React
 
