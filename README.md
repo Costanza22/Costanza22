@@ -108,11 +108,11 @@ Python • Processamento de Dados • Web Scraping
 
 -Projeto focado em identificar conservantes em rótulos de alimentos.
 
--Dicionário de ingredientes estruturado
+-Pessoas que possuem alergia aos conservantes
 
--Normalização de dados
+-Busca pela fórmula que contêm o BHT, uso de IA
 
--Busca e classificação de texto
+-Busca e classificação de textos 
 
 Atividade no GitHub
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/> </p>
