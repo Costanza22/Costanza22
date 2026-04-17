@@ -26,9 +26,9 @@
 Engenheira de Software com foco em **Health-Tech e Inteligência Artificial Aplicada**.
 Desenvolvo sistemas que transformam dados clínicos complexos em ferramentas que protegem e ajudam pessoas.
 
-- 🏥 Especialista em IA Aplicada — **UFPR**
-- 🔬 Mestranda em Informática em Saúde — **UFSC** (Florianópolis, 2026)
-- 🧠 Linha de pesquisa: **IA para predição de risco em hemodiálise**
+- 🏥 Graduanda em **IA Aplicada** — UFPR
+- 🔬 Candidata ao Mestrado em Informática em Saúde — **UFSC**
+- 🧠 Pesquisa: **IA para predição de risco em hemodiálise**
 - 🌱 Apaixonada por sistemas escaláveis, precisos e centrados no paciente
 
 <br/>
