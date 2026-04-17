@@ -1,128 +1,136 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Costanza%20Pasquotto%20Assef&fontSize=35&fontColor=ffffff"/>
+  <img width="100%" alt="bojack e diane" src="https://github.com/user-attachments/assets/47002abd-ce38-48ae-84e5-f008b8afd137" />
 </p>
 
-<h1 align="center">Costanza Pasquotto Assef</h1>
+<div align="center">
 
-<p align="center">
-Engenheira de Software • Health-Tech • Inteligência Artificial
-</p>
+<a href="mailto:pinassef22@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
+</a>
+<a href="https://br.linkedin.com/in/costanzaassef">
+  <img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+</a>
+<a href="https://medium.com/@costanza22">
+  <img src="https://img.shields.io/badge/-Medium-0f0c29?style=for-the-badge&logo=medium&logoColor=a78bfa"/>
+</a>
 
-<p align="center">
-Especialista em Inteligência Artificial Aplicada — Universidade Federal do Paraná (UFPR)
-</p>
+</div>
 
-<p align="center">
-  <a href="mailto:pinassef22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://br.linkedin.com/in/costanzaassef">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@costanza22">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
 ---
 
-## Sobre
+## 👩‍💻 Sobre mim
 
-Engenheira de Software com foco em aplicações de saúde, desenvolvendo ferramentas que ajudam pessoas a monitorar, compreender e gerenciar métricas e informações de saúde.
+Engenheira de Software com foco em **Health-Tech e Inteligência Artificial Aplicada**.
+Desenvolvo sistemas que transformam dados clínicos complexos em ferramentas que protegem e ajudam pessoas.
 
-Especializada em Inteligência Artificial Aplicada pela UFPR, com interesse em:
+- 🏥 Especialista em IA Aplicada — **UFPR**
+- 🔬 Mestranda em Informática em Saúde — **UFSC** (Florianópolis, 2026)
+- 🧠 Linha de pesquisa: **IA para predição de risco em hemodiálise**
+- 🌱 Apaixonada por sistemas escaláveis, precisos e centrados no paciente
 
-- Aplicações de IA na saúde
-- Monitoramento e análise de dados de saúde
-- Modelagem de dados e dashboards interativos
-- Classificação e análise de informações de alimentos
-- Data modeling and interpretation
+<br/>
 
-Meu trabalho prioriza sistemas estruturados, escaláveis e intuitivos, transformando dados complexos em produtos digitais úteis para pessoas.
+> *"Transforming complex health data into tools that actually help people."*
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,postgresql,mysql,docker,linux,git"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,typescript,postgresql,mysql,docker,linux,git&theme=dark"/>
 </p>
 
-### Backend
+<details>
+<summary>🔍 Ver detalhes da stack</summary>
 
-- Node.js  
-- REST APIs  
-- Arquitetura 
+<br/>
 
-### Frontend
+| Camada | Tecnologias |
+|--------|-------------|
+| **Backend** | Node.js · REST APIs · Microsserviços · HL7 FHIR |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Dashboards clínicos |
+| **Data & AI** | PostgreSQL · MySQL · SQLite · Pipelines ETL · Random Forest · SVM · LSTM |
+| **Infra** | Docker · Linux · Git · HTTPS/SSL · LGPD |
 
-- React
-- Dashboards de saúde
-- Integração com APIs
-
-### Data
-
-- PostgreSQL  
-- MySQL  
-- Pipelines ETL 
-- SQLite
-- Análise preditiva de métricas de saúde
+</details>
 
 ---
 
-## Projetos Selecionados
+## 🔬 Projetos em Destaque
 
-## GlucoCare — Aplicativo de Monitoramento de Diabetes
-
-React • Node.js • SQLite
-
--Aplicativo full-stack para registro e acompanhamento de medições de glicose.
-
--Dashboard: última medição, média dos últimos 7 dias, medições do dia, percentual dentro da faixa alvo (70–140 mg/dL)
-
--Resumo: tendência, mínimo, máximo, percentual no alvo
-
--Cadastro e Edição de Medições: validação 20–600 mg/dL
-
--Gráficos: evolução da glicose com faixa alvo destacada
-
--Histórico e Filtros: visualizar, editar, excluir; filtrar por 7/30 dias ou todos
-
--Exportação e Backup: CSV e JSON
-
--Suporte Offline: fallback no localStorage
-
--Modo Claro/Escuro com persistência
-
-## Gluten Aware — Detector de Produtos Sem Glúten
-
-PostgreSQL • IA • React
-
-Sistema para identificar produtos supostamente sem glúten, ajudando pessoas com intolerância ou doença celíaca. Considera que não há 100% de certeza na rotulagem, oferecendo alertas e análises detalhadas.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🫀 DialySmart</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-0f0c29?style=flat&logo=nextdotjs&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=flat&logo=typescript&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/IA%20Clínica-0f0c29?style=flat&logo=openai&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/UFSC-0f0c29?style=flat&logoColor=a78bfa"/>
+      </p>
+      <p>
+        Protótipo de app móvel com IA para <strong>predição de instabilidade hemodinâmica</strong> em hemodiálise — projeto de mestrado em Informática em Saúde (UFSC).<br/><br/>
+        Alertas estratificados (preventivo e crítico), integração com prontuário Tasy via HL7 FHIR, arquitetura em microsserviços e conformidade com LGPD.<br/><br/>
+        Algoritmos candidatos: <strong>Random Forest · SVM · LSTM</strong><br/>
+        Métricas: acurácia, sensibilidade, especificidade, AUC-ROC.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Costanza22/dialysmart-ufsc">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💉 GlucoCare</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-0f0c29?style=flat&logo=react&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/Node.js-0f0c29?style=flat&logo=nodedotjs&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/SQLite-0f0c29?style=flat&logo=sqlite&logoColor=a78bfa"/>
+      </p>
+      <p>Aplicativo full-stack para monitoramento de diabetes. Dashboard com média 7 dias, gráficos de evolução, faixa alvo 70–140 mg/dL, exportação CSV/JSON e suporte offline.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌾 Gluten Aware</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat&logo=postgresql&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/React-0f0c29?style=flat&logo=react&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/IA-0f0c29?style=flat&logo=openai&logoColor=a78bfa"/>
+      </p>
+      <p>Detector inteligente de produtos sem glúten para celíacos. Análise detalhada de rótulos com alertas de risco e IA para classificação de ingredientes.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧪 BHT Detector</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-0f0c29?style=flat&logo=python&logoColor=a78bfa"/>
+        <img src="https://img.shields.io/badge/Web%20Scraping-0f0c29?style=flat&logo=selenium&logoColor=a78bfa"/>
+      </p>
+      <p>Identificação de conservantes (BHT) em rótulos de alimentos via IA e busca por fórmula química. Voltado para pessoas com alergias a conservantes.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## BHT Detector
+## 📊 GitHub Stats
 
-Python • Processamento de Dados • Web Scraping
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+</p>
 
--Projeto focado em identificar conservantes em rótulos de alimentos.
-
--Pessoas que possuem alergia aos conservantes
-
--Busca pela fórmula que contêm o BHT, uso de IA
-
--Busca e classificação de textos 
-
-Atividade no GitHub
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Costanza22&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true"/> </p>
-Escrita
-
-Também escrevo sobre tecnologia, engenharia de software e sistemas de dados.
-
-Medium
-https://medium.com/@costanza22
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costanza22&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
