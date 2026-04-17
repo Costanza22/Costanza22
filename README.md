@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100%" alt="bojack e diane" src="https://github.com/user-attachments/assets/47002abd-ce38-48ae-84e5-f008b8afd137" />
+  <img width="1536" height="1024" alt="bojack e diane" src="https://github.com/user-attachments/assets/abb7c092-288a-4ffc-9898-0d570fa09aa5" />
+
 </p>
 
 <div align="center">
