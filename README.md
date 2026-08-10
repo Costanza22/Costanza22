@@ -23,13 +23,14 @@
 
 ## 👩‍💻 Sobre mim
 
-Engenheira de Software com foco em **Health-Tech e Inteligência Artificial Aplicada**. Desenvolvo sistemas que transformam dados complexos em soluções tecnológicas para apoiar decisões e gerar impacto na saúde.
+Engenheira de Software e especialista em **Inteligência Artificial**, com interesse em tecnologia aplicada a desafios reais e projetos de **impacto social**. Desenvolvo sistemas que transformam dados complexos em soluções tecnológicas para apoiar decisões, otimizar processos e gerar impacto na sociedade.
 
 * 💻 **Engenheira de Software — Centro de Tecnologia de Santa Catarina (CTSC)**
 * 🧠 **Especialista em Inteligência Artificial — UFPR**
 * 🎓 **Pós-graduação em Computação:** aprovada como aluna especial na **UFSC** e na **UTFPR**
 * 🔬 Pesquisa em **IA para predição de risco em hemodiálise**
-* 🌱 Interesse em **engenharia de software, sistemas escaláveis e tecnologia aplicada à saúde**
+* 🌱 Interesse em **Inteligência Artificial, engenharia de software, sistemas escaláveis e tecnologia aplicada a desafios sociais**
+
 
 
 > *"Transforming complex health data into tools that actually help people."*
