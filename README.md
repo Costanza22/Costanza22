@@ -22,20 +22,22 @@
 ---
 
 ## 👩‍💻 Sobre mim
+# Olá! Eu sou a Cos 👋
 
-Engenheira de Software e especialista em **Inteligência Artificial**, com interesse em tecnologia aplicada a desafios reais e projetos de **impacto social**. Desenvolvo sistemas que transformam dados complexos em soluções tecnológicas para apoiar decisões, otimizar processos e gerar impacto na sociedade.
+**Engenheira de Software e especialista em Inteligência Artificial**, com interesse em transformar problemas reais em soluções tecnológicas.
 
-* 💻 **Engenheira de Software — Centro de Tecnologia de Santa Catarina (CTSC)**
-* 🧠 **Especialista em Inteligência Artificial — UFPR**
-* 🎓 **Pós-graduação em Computação:** aprovada como aluna na **UFSC** e na **UTFPR**
-* 🔬 Pesquisa em **IA para predição de risco em hemodiálise** Projeto de Pesquisa de Mestrado- Tecnologia em Saude- UFSC
-* 🌱 Interesse em **Inteligência Artificial, engenharia de software, sistemas escaláveis e tecnologia aplicada a desafios sociais**
+Atuo principalmente com **Engenharia de Software, Inteligência Artificial e desenvolvimento de sistemas**, buscando construir soluções eficientes, escaláveis e capazes de transformar dados em resultados relevantes.
 
+### Sobre mim
 
+* 💻 **Engenheira de Software** — Centro de Tecnologia de Santa Catarina (CTSC)
+* 🧠 **Especialista em Inteligência Artificial** — UFPR
+* 🎓 **Aluna especial de Pós-graduação em Computação** — UFSC e UTFPR
+* 🔬 Pesquisa em **IA para predição de risco em hemodiálise** — Tecnologia em Saúde, UFSC
+* 🌱 Interesses: **Inteligência Artificial, Engenharia de Software, sistemas escaláveis e tecnologia aplicada a problemas reais**
 
-> *"Transforming complex health data into tools that actually help people."*
+> *“Transforming complex data into technology that actually helps people.”*
 
----
 
 ## 🛠️ Tecnologias
 
