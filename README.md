@@ -33,7 +33,7 @@ Atuo principalmente com **Engenharia de Software, Inteligência Artificial e des
 * 💻 **Engenheira de Software** — Centro de Tecnologia de Santa Catarina (CTSC)
 * 🧠 **Especialista em Inteligência Artificial** — UFPR
 * 🎓 **Aluna especial de Pós-graduação em Computação** — UFSC e UTFPR
-* 🔬 Pesquisa em **IA para predição de risco em hemodiálise** — Tecnologia em Saúde, UFSC
+* 🔬 Pesquisa em **IA para predição de risco em hemodiálise** — Mestrado Tecnologia em Saúde UFSC
 * 🌱 Interesses: **Inteligência Artificial, Engenharia de Software, sistemas escaláveis e tecnologia aplicada a problemas reais**
 
 > *“Transforming complex data into technology that actually helps people.”*
